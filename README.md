@@ -11,9 +11,11 @@ The articles data is downloaded from Web of Science (core collection) under the 
 - Add fund_label, number of fund  
 The final dataset is saved in woscleaned.csv.
 ## Exploratory Data Analysis
-- publications trend
+- Publications trend
 ![alt text](https://github.com/christine62/Wiley-Bibliometrics-Analysis/blob/master/image/number%20of%20publications.png?raw=true)  
-- funding ratio  
+- Authors trend  
+![author trend](https://github.com/christine62/Wiley-Bibliometrics-Analysis/blob/master/image/author%20trend.png?raw=true)  
+- Funding ratio  
 ![alt text](https://github.com/christine62/Wiley-Bibliometrics-Analysis/blob/master/image/funding%20ratio.png?raw=true)
 ## Impact Factor
 **Impact Factor** is used to reflect the average number of citations divided by the total number of articles post on the journal recently. IF is frequently used as a proxy for relative importance of a journal. 
